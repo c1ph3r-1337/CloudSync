@@ -1,4 +1,5 @@
-# CloudSync 📡💾
+
+# <p align="center">CloudSync 📡💾</p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/20132858-7061-4611-893e-fcbb4551bf07" alt="CloudSync Logo" width="200">
