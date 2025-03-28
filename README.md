@@ -1,6 +1,8 @@
 # CloudSync 📡💾
 
-![Screenshot 2025-03-28 182056](https://github.com/user-attachments/assets/20132858-7061-4611-893e-fcbb4551bf07)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/20132858-7061-4611-893e-fcbb4551bf07" alt="CloudSync Logo" width="200">
+</p>
 
 **CloudSync** is a cloud-based network storage solution (basically a NAS) for the ESP32, made by **c1ph3r-1337**. It uses an SD card for file storage and serves a responsive web UI to upload, download, and delete files in real time.
 
@@ -37,14 +39,16 @@ Connect the SD card module to the ESP32 as follows:
 - **MOSI**, **MISO**, **SCK**: Connect to the corresponding SPI pins on the ESP32
 - **Power & GND**: Connect to 3.3V and GND respectively
 
-![Screenshot 2025-03-28 181932](https://github.com/user-attachments/assets/8babf82b-86e3-4de6-b19c-37dd4dbd22a3)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8babf82b-86e3-4de6-b19c-37dd4dbd22a3" alt="Wiring Diagram" width="400">
+</p>
 
 ## Screenshot 📸
 Here’s a preview of the CloudSync UI:
 
-![Screenshot 2025-03-28 182048](https://github.com/user-attachments/assets/c28faedd-019c-4287-8c25-c3bb31988037)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c28faedd-019c-4287-8c25-c3bb31988037" alt="CloudSync UI" width="600">
+</p>
 
 ## How It Works 🤔
 1. **WiFi & SD Initialization**:  
@@ -62,7 +66,7 @@ Here’s a preview of the CloudSync UI:
    - **Storage Info**: The `/storage` endpoint recursively sums file sizes to display total, used, and free storage.
 
 4. **Responsive UI**:  
-   The web interface features a sidebar with a dynamic storage indicator and folder list, plus a main area for file management. The layout adjusts automatically for mobile devices.
+   The web interface features a sidebar with a dynamic storage indicator and folder list (with options to create/delete folders) plus a main area for file management. The layout adjusts automatically for mobile devices.
 
 ## How to Flash 📡
 1. Connect your ESP32 to your computer.  
@@ -70,8 +74,10 @@ Here’s a preview of the CloudSync UI:
 3. Use PlatformIO or the Arduino IDE to compile and flash the code.  
 4. Once flashed, open a browser and navigate to [http://192.168.1.100/](http://192.168.1.100/) to access CloudSync.
 
+## License 📝
+This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
+
 ---
 
 Enjoy your very own Cloud-based Network Storage (NAS) built by **c1ph3r-1337**! 😎👍
 ```
-
