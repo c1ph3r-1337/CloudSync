@@ -38,7 +38,7 @@ framework = arduino
 Connect the SD card module to the ESP32 as follows:
 - **CS**: Pin 5 (or update in code if needed)
 - **MOSI**, **MISO**, **SCK**: Connect to the corresponding SPI pins on the ESP32
-- **Power & GND**: Connect to 3.3V and GND respectively
+- **Power & GND**: Connect to 5V and GND respectively
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8babf82b-86e3-4de6-b19c-37dd4dbd22a3" alt="Wiring Diagram" width="400">
