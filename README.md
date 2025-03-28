@@ -10,7 +10,7 @@
 ## Features 🚀
 - **WiFi Connection**: Connects to your network using a static IP.
 - **SD Card Storage**: Uses an SD card (up to 32 GB, formatted as FAT32) to store files.
-- **Responsive Web UI**: Manage files with a modern, mobile-friendly interface.
+- **Responsive Web UI**: Manage files with a modern, User-friendly interface.
 - **Real-Time Updates**: Uses WebSockets (port 81) to update the UI on file changes.
 - **Folder Management**: Create and delete folders to organize your files.
 - **Dynamic Storage Indicator**: Sums file sizes to show used, free, and total storage.
