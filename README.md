@@ -65,7 +65,7 @@ Here’s a preview of the CloudSync UI:
    - **Storage Info**: The `/storage` endpoint recursively sums file sizes to display total, used, and free storage.
 
 4. **Responsive UI**:  
-   The web interface features a sidebar with a dynamic storage indicator and folder list (with options to create/delete folders) plus a main area for file management. The layout adjusts automatically for mobile devices.
+   The web interface features a sidebar with a dynamic storage indicator and folder list (with options to create/delete folders) plus a main area for file management.
 
 ## How to Flash 📡
 1. Connect your ESP32 to your computer.  
