@@ -39,14 +39,12 @@ Connect the SD card module to the ESP32 as follows:
 
 ![Screenshot 2025-03-28 181932](https://github.com/user-attachments/assets/8babf82b-86e3-4de6-b19c-37dd4dbd22a3)
 
-*Replace `path/to/wiring_diagram.png` with your actual wiring diagram image path.*
 
 ## Screenshot 📸
 Here’s a preview of the CloudSync UI:
 
 ![Screenshot 2025-03-28 182048](https://github.com/user-attachments/assets/c28faedd-019c-4287-8c25-c3bb31988037)
 
-*Replace `path/to/screenshot.png` with your actual screenshot image path.*
 
 ## How It Works 🤔
 1. **WiFi & SD Initialization**:  
