@@ -8,8 +8,8 @@
 #define SD_CS_PIN 5
 
 // WiFi credentials
-const char* ssid = "INFECTED NETWORK 2.4 GHz";
-const char* password = "Jas@1234";
+const char* ssid = "SSID";
+const char* password = "YOUR_PASSWORD";
 IPAddress local_IP(192, 168, 1, 100);
 IPAddress gateway(192, 168, 1, 1);
 IPAddress subnet(255, 255, 255, 0);
