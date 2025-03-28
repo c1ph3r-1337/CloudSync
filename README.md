@@ -75,6 +75,3 @@ Here’s a preview of the CloudSync UI:
 Enjoy your very own Cloud-based Network Storage (NAS) built by **c1ph3r-1337**! 😎👍
 ```
 
----
-
-Simply replace the placeholder paths for the logo, wiring diagram, and screenshot with your actual image paths. This README.md is designed to look great on GitHub with emojis and clear sections explaining how the code works.
